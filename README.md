@@ -7,7 +7,7 @@ This repository contains the implementation of the wavelet texture descriptor me
 Currently, the main repository containing the code is private, and the code is not accessible to the public. The code will be made publicly available upon the acceptance of the corresponding paper.
 
 ## Paper Submission
-The paper associated with this repository is currently under review. Once the paper is accepted for publication, we will update the main repository and make it public.
+The paper associated with the code repository is currently under review. Once the paper is accepted for publication, we will update the main repository and make it public.
 
 ## Contact
 If you have any questions or need further information, please contact us at belila.djilani@univ-ouargla.dz.
